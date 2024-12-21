@@ -18,5 +18,6 @@ A simple C application to extract EXIF metadata from an image file.
      gcc -o extract_metadata extract_metadata.c -lexif
 3.Run the program:
     ```bash
+    
     ./extract_metadata path_to_image.jpg
 
